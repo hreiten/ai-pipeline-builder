@@ -1,19 +1,19 @@
 # The AI pipeline builder
 
+Deployed here: https://vercel.com/halvor-reitens-projects/ai-pipeline-builder
+
 ## Project info
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+The only requirement is having Node.js & npm installed
 
-Follow these steps:
+To run the project locally, follow these steps:
 
 ```sh
 npm i
 npm run dev
 ```
 
-## What technologies are used for this project?
-
-This project is built with:
+## Technologies
 
 - Vite
 - TypeScript
@@ -21,4 +21,4 @@ This project is built with:
 - shadcn-ui
 - Tailwind CSS
 - Supabase (databases + functions)
-- OpenAI's LLMs
+- OpenAI
