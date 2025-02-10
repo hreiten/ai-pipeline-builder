@@ -1,0 +1,5 @@
+
+project_id = "jknkzphysctosqlhcqrp"
+
+[functions.generate-sparring-response]
+verify_jwt = true
