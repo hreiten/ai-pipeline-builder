@@ -20,5 +20,5 @@ npm run dev
 - React
 - shadcn-ui
 - Tailwind CSS
-- Supabase (databases + functions)
+- Supabase (databases + functions + auth)
 - OpenAI
