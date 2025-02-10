@@ -1,6 +1,6 @@
 # The AI pipeline builder
 
-Deployed here: https://vercel.com/halvor-reitens-projects/ai-pipeline-builder
+Deployed here: https://ai-pipeline-builder-phi.vercel.app/
 
 ## Project info
 
